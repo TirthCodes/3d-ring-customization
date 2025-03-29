@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@react-three/fiber": "^9.1.0",
+    "@tailwindcss/vite": "^4.0.17",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.17",
     "three": "^0.175.0"
   },
   "devDependencies": {
